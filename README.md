@@ -19,3 +19,6 @@ i. Read a question and choose from four answer options.
 ii. Get instant feedback with color-coded highlights (green for correct, red for wrong).
 iii. Move to the next question using the Next button.
 iv. View their final score at the end of the quiz and restart it anytime.
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/9ceb364f-d7cd-41a6-96e2-3da6b91178b1)
